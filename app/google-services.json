@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "262308083838",
+    "firebase_url": "https://livewallpaper-1c84e.firebaseio.com",
+    "project_id": "livewallpaper-1c84e",
+    "storage_bucket": "livewallpaper-1c84e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262308083838:android:5e95c4c542e98e7c",
+        "android_client_info": {
+          "package_name": "com.example.user.forevershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262308083838-ueelmr62ke8sr15nf4h1prf6d2i81omo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.forevershop",
+            "certificate_hash": "b6306028fa12e0952c76001086d5e4009554e6c8"
+          }
+        },
+        {
+          "client_id": "262308083838-d7a3dk51a7bgq3uvfadhe1ecilqsjh1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv1pqIPfdimY7HViJ7AZLhSQr8EcKWwbM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262308083838-d7a3dk51a7bgq3uvfadhe1ecilqsjh1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262308083838:android:4030ff62b1a30145",
+        "android_client_info": {
+          "package_name": "com.example.user.forevershoplivewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262308083838-7s8ag2083vm0n2561laeie4gkb0cn2r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.forevershoplivewallpaper",
+            "certificate_hash": "b6306028fa12e0952c76001086d5e4009554e6c8"
+          }
+        },
+        {
+          "client_id": "262308083838-d7a3dk51a7bgq3uvfadhe1ecilqsjh1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv1pqIPfdimY7HViJ7AZLhSQr8EcKWwbM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262308083838-d7a3dk51a7bgq3uvfadhe1ecilqsjh1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
